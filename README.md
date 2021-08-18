@@ -12,8 +12,7 @@
 ## Description
 bar.js is a Canvas based simple JavaScript Bar Chart Library to provide a configurable, lightweight and dependency-free experience.
 
-![](https://github.com/alperentalaslioglu/bar-js/raw/master/bar.png)
-
+![](output/ss1.PNG)
 
 ## Installation
 Download  the `bar.min.js`and include it in your project.
