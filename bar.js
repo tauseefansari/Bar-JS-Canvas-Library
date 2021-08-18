@@ -2,12 +2,12 @@
  *
  * bar.js
  * simple, elegant bar chart library
- * {date} - version 1.0
- * {url}
+ * {18/08/2021} - version 1.0
+ * https://github.com/tauseefansari/Bar-JS-Canvas-Library
  *
- * Copyright 2021 {Tauseef Ansari}
+ * Copyright 2021 Tauseef Ansari
  * Relased under the MIT License
- * {license url}
+ * https://github.com/tauseefansari/Bar-JS-Canvas-Library/blob/main/LICENSE
  *
  */
 
