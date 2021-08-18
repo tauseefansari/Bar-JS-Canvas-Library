@@ -57,4 +57,4 @@ Defines the data objects. The objects should have 2 key-value pairs: label and v
 ```
 
 ## Licence
-[MIT](LICENCE.md) © [Tauseef Ansari](https://github.com/tauseefansari)
+[MIT](https://github.com/tauseefansari/Bar-JS-Canvas-Library/blob/main/LICENSE) © [Tauseef Ansari](https://github.com/tauseefansari)
